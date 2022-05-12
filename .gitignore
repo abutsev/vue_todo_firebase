@@ -1,7 +1,6 @@
-.DS_Store
+git .DS_Store
 node_modules
 /dist
-src/firebase.js
 # local env files
 .env.local
 .env.*.local
